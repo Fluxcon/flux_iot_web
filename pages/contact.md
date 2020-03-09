@@ -40,7 +40,7 @@ subtitle: Contact
 								</div>
 								<div class="col-12">
 									<ul class="actions">
-										<li><button type="submit" class="button primary">Send Message</button></li>
+										<li><button type="submit" class="button large primary">Send Message</button></li>
 									</ul>
 								</div>
 							</div>
