@@ -33,7 +33,7 @@ subtitle: Contact
 									<input type="email" name="Email" id="email" placeholder="Email">
 								</div>
 								<div class="col-12">
-									<input type="email" name="Phone" id="phone" placeholder="Phone">
+									<input type="text" name="Phone" id="phone" placeholder="Phone">
 								</div>
 								<div class="col-12">
 									<textarea name="Message" id="message" placeholder="Enter your message" rows="6"></textarea>
