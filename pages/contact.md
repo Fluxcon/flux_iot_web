@@ -24,30 +24,23 @@ subtitle: Contact
 				<!-- Content -->
 				<section>
 					<div class="content">
-						<form id="contact-form" method="POST" action="#">
+						<form id="contact-form" name="Fluxcon | IoT contact form." method="POST" netlify>
 							<div class="row gtr-uniform gtr-50">
 								<div class="col-12">
-									<input type="text" name="name" id="name" value="" placeholder="Name">
+									<input type="text" name="Name" id="name" placeholder="Name">
 								</div>
 								<div class="col-12">
-									<input type="email" name="email" id="email" value="" placeholder="Email">
+									<input type="email" name="Email" id="email" placeholder="Email">
 								</div>
 								<div class="col-12">
-									<select name="category" id="category">
-										<option value="">- Category -</option>
-										<option value="1">Manufacturing</option>
-										<option value="1">Shipping</option>
-										<option value="1">Administration</option>
-										<option value="1">Human Resources</option>
-									</select>
+									<input type="email" name="Phone" id="phone" placeholder="Phone">
 								</div>
 								<div class="col-12">
-									<textarea name="message" id="message" placeholder="Enter your message" rows="6"></textarea>
+									<textarea name="Message" id="message" placeholder="Enter your message" rows="6"></textarea>
 								</div>
 								<div class="col-12">
 									<ul class="actions">
-										<li><input type="submit" value="Send Message" class="primary"></li>
-										<li><input type="reset" value="Reset"></li>
+										<li><button type="submit" class="button primary">Send Message</button></li>
 									</ul>
 								</div>
 							</div>
