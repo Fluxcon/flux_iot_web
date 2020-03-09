@@ -68,7 +68,7 @@ subtitle: Hardware
 						including onboard voltage regulators, RS232 level shifting and protection circuitry, to easily connect the 9602 transceiver to an RS232 DTE port.</small></p>
 				</header>
 				<ul class="actions">
-					<li><a href="/hardware/powertray_d15/" class="button small icon fa-arrow-circle-right-alt">Learn more</a></li>
+					<li><a href="/hardware/powertray_d15" class="button small icon fa-arrow-circle-right-alt">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
