@@ -40,6 +40,9 @@ subtitle: Contact
 									<textarea name="Message" id="message" placeholder="Enter your message" rows="6"></textarea>
 								</div>
 								<div class="col-12">
+									<div data-netlify-recaptcha="true"></div>
+								</div>
+								<div class="col-12">
 									<ul class="actions">
 										<li><button type="submit" class="button large primary">Send Message</button></li>
 									</ul>
