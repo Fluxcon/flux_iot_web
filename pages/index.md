@@ -123,7 +123,7 @@ fireflies: 5
 				<div class="col-6 col-12-medium">
 					<header>
 						<h4>Fluxcon offers a range of solutions.</h4>
-						<ul>
+						<ul class="alt">
 							<li>Management platform </li>
 							<li>Satellite connectivity </li>
 							<li>Off-the-shelf hardware </li>
