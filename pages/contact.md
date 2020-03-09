@@ -24,7 +24,7 @@ subtitle: Contact
 				<!-- Content -->
 				<section>
 					<div class="content">
-						<form id="contact-form" name="Fluxcon | IoT contact form." method="POST" data-netlify="true" data-netlify-recaptcha="true">
+						<form id="contact-form" name="Fluxcon | IoT contact form." method="POST" data-netlify="true" data-netlify-recaptcha="true" autocomplete="off">
 							<input type="hidden" name="subject" value="Fluxcon IoT Contact form submitted.">
 							<div class="row gtr-uniform gtr-50">
 								<div class="col-12">
