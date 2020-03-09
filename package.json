@@ -1,0 +1,15 @@
+{
+  "name": "flux_web_iot",
+  "version": "1.0.0",
+  "description": "Fluxcion IoT site.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@11ty/eleventy": "^0.10.0"
+  },
+  "scripts": {
+    "serve": "npx @11ty/eleventy --serve"
+  },
+  "author": "Fluxcon",
+  "license": "UNLICENSED"
+}

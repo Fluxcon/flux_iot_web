@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 423.7 490">
+  <defs>
+    <style>
+      .line {
+        fill: none;
+        stroke: #000000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 1em;
+      }
+    </style>
+  </defs>
+  <title>iot_icon</title>
+  <g>
+    <line class="line" x1="127.56" y1="134.89" x2="79.63" y2="86.97"/>
+    <rect class="line" x="165.71" y="139.89" width="161.25" height="161.25" transform="translate(428.7 -30.81) rotate(90)"/>
+    <line class="line" x1="288.81" y1="134.89" x2="324.96" y2="98.75"/>
+    <line class="line" x1="208.18" y1="296.14" x2="208.18" y2="363.24"/>
+    <circle class="line" cx="208.18" cy="424.06" r="60.94"/>
+    <polygon class="line" points="5 12.34 36.54 130.06 122.72 43.88 5 12.34"/>
+    <polygon class="line" points="406.92 16.78 332.52 5 298.33 72.11 351.59 125.38 418.7 91.18 406.92 16.78"/>
+  </g>
+</svg>
