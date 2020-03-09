@@ -1,7 +1,7 @@
 ---
 layout:	default.njk
 title: 	Fluxcon | IoT
-fireflies: 5
+fireflies: 15
 topper: '#banner'
 ---
 
